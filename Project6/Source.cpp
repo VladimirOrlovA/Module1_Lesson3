@@ -90,5 +90,5 @@ int main()
 	printf("\n b=>c %d, a=>b %d, c=>a %d\n\n", b, a, c);
 
 
-	system("pause");
+	system("pause"); 111
 }
